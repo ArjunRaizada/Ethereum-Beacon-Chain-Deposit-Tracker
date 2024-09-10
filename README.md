@@ -82,6 +82,21 @@ Processes the fetched deposit logs and decodes them into readable data. Also sto
 - **TOKEN**: The Telegram bot token for sending notifications.
 - **ID**: The Telegram chat ID to which notifications should be sent.
 
+## Sample Screenshots
+
+- **TELEGRAM NOTIFICATIONS** 
+
+<img src="https://github.com/user-attachments/assets/408daf6d-df32-4dff-adc7-c5ef957541ce" alt="IMG_0325" width="300"/>
+<img src="https://github.com/user-attachments/assets/a8d0686e-7384-4bee-9822-36080d4e6d6e" alt="IMG_0324" width="300"/>
+
+- **MONGO DB ENTRIES** 
+<img src="https://github.com/user-attachments/assets/ca0d6caf-3439-4052-8281-f6c7844cfaa8" alt="IMG_0325" width="300"/>
+<img src="https://github.com/user-attachments/assets/a756490f-cd42-4b23-9af8-ca858738466c" alt="IMG_0325" width="300"/>
+
+
+
+
+
 ## License
 
 This project is open source.
