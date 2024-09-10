@@ -93,8 +93,8 @@ Processes the fetched deposit logs and decodes them into readable data. Also sto
 <img src="https://github.com/user-attachments/assets/ca0d6caf-3439-4052-8281-f6c7844cfaa8" alt="IMG_0325" width="300"/>
 <img src="https://github.com/user-attachments/assets/a756490f-cd42-4b23-9af8-ca858738466c" alt="IMG_0325" width="300"/>
 
-
-
+- **DASHBOARD PREVIEW**
+<img src="https://github.com/user-attachments/assets/f1276a6a-20db-4840-97ac-6fd0f21e2426" alt="IMG_0325" width="600"/>
 
 
 ## License
